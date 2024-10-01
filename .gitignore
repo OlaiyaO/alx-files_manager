@@ -1,0 +1,51 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Dependency directories
+jspm_packages/
+
+# Babel and ESLint cache
+.cache/
+.tern-port
+.zeit
+.next
+out
+build/
+dist/
+coverage/
+.vscode/
+.eslintcache
+.babelrc.js
+
+# Testing
+/coverage
+/.nyc_output
+
+# MacOS files
+.DS_Store
+
+# Editor directories and files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Env files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env.*
+
+# Misc
+*.swp
+*~
